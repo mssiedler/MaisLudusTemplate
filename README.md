@@ -8,7 +8,7 @@ Criado a partir do projeto [+Ludus](https://linktr.ee/maisludus), Projeto de Ino
 
 # Instalação
 
-1) Baixar o arquivo **com.ludus.template.tgz**
+1) Baixar o arquivo ![com.ludus.template.tgz](com.ludus.template.tgz) 
 
 2) Salvar na pasta **C:\Program Files\Unity\Hub\Editor\2022.3.13f1\Editor\Data\Resources\PackageManager\ProjectTemplates ou equivalente (dependendo do Sistema Operacional e/ou versão da Unity instalada)**.
 
@@ -16,12 +16,12 @@ Criado a partir do projeto [+Ludus](https://linktr.ee/maisludus), Projeto de Ino
 
 4) Criar um novo Projeto, ir na versão 2022.3.13f1,  e selecionar o template +Ludus conforme a imagem.
 
-![Imagem da criação do novo Projeto com o template +Ludus](http://aplicativoseducacionais.epizy.com/readmeMedia/instalacao.png)
+![Imagem da criação do novo Projeto com o template +Ludus](midia/instalacao.png)
 
 
 5) No novo projeto, verificar se as pastas foram adequadamente geradas conforme o exemplo.
 
-![Estrutura de Pastas](http://aplicativoseducacionais.epizy.com/readmeMedia/pastas.png)
+![Estrutura de Pastas](midia/pastas.png)
 
 
 # Funcionamento
@@ -39,7 +39,7 @@ Para utilização correta do *Template*, a primeira etapa consiste na elaboraç�
 
 O **+Ludus Template** funciona a partir da correta elaboração das imagens e sons que serão utilizadas na elaboração das fases. Basicamente uma fase apresenta os seguintes elementos apresentados na imagem a seguir.
 
-![Imagem exemplo da Fase](http://aplicativoseducacionais.epizy.com/readmeMedia/instalacao.png)
+![Imagem exemplo da Fase](midia/instalacao.png)
 
 Nessa imagem é apresentada a direita o que é chamado de objetos do jogo(no caso o ET e a Nave) e a esqueda as respectivas sombras objetos. 
 
@@ -94,7 +94,7 @@ A pasta **teste** apresenta a configuração básica para utilização do templa
 
 Como exemplo vamos analisar os arquivos que apresentam os *SpriteSheets* da pasta **teste** que vem no Template.
 
-![Imagem exemplo da Fase](http://aplicativoseducacionais.epizy.com/readmeMedia/sprites.png)
+![Imagem exemplo da Fase](midia/sprites.png)
 
 
 A primeia observação importante é que, tanto o o objeto quanto a sombra apresentam as imagens na **mesma ordem** e com correspondencia de tamanho entre os objetos e as sombras para uma correta sobreposição.
@@ -140,7 +140,7 @@ Deve ser definida a pasta na qual os assets estão inseridos (no nosso caso **te
 
 Essa configuração é feita no Script do Painel do prefab e é feita ajustando os parâmetros conforme a necessidade da Aplicação conforme apresentado a seguir:
 
-![Configuração do Script](http://aplicativoseducacionais.epizy.com/readmeMedia/configScript1.png)
+![Configuração do Script](midia/configScript1.png)
 
 Com essa configuração a fase já deve funcionar conforme o esperado.
 
