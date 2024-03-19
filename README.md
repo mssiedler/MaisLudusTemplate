@@ -38,7 +38,7 @@ Para utilização correta do *Template*, a primeira etapa consiste na elaboraç�
 
 O **+Ludus Template** funciona a partir da correta elaboração das imagens e sons que serão utilizadas na elaboração das fases. Basicamente uma fase apresenta os seguintes elementos apresentados na imagem a seguir.
 
-![Imagem exemplo da Fase](midia/instalacao.png)
+![Imagem exemplo da Fase](midia/pastas.png)
 
 Nessa imagem é apresentada a direita o que é chamado de objetos do jogo(no caso o ET e a Nave) e a esqureda as respectivas sombras objetos. 
 
