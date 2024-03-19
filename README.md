@@ -49,7 +49,7 @@ Para utilização do Template é necessário que as imagens desses objetos, bem 
 
 O Template apresenta a seguinte estrutura de disposição de pastas: 
 
-```http
+```
   - Assets
     -- Resources
         ---fases 
@@ -58,7 +58,7 @@ O Template apresenta a seguinte estrutura de disposição de pastas:
 A partir da pasta **fases**, o usuário deve organizar em pasta específica os *assets* que serão utilizados no aplicativo. No template são apresentadas duas pastas que servem de exemplo, **exemplo** e **teste**, com as seguintes estruturas de arquivo:
 
 
-```http
+```
   - Assets
     -- Resources
         ---fases 
@@ -210,3 +210,4 @@ Nos Assets, adicionar um *SpriteSheet* chamado **objetoPareado.png** na mesma pa
 #### Exemplo de utilização
 
 Para utilizar basta marcar a opção **Substituir Objeto ao parear** no Script conforme a figura a seguir.
+
